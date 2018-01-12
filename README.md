@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meat - Angular App Starter
 
 ## 1. Passos para começar
@@ -88,3 +89,7 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+=======
+# meat-app-starter
+Projeto de uma Aplicação Web site de compras de comida com Novo Angular 4
+>>>>>>> 13de233682a4ef4ca54bfd998e80b4fedd2e8564
