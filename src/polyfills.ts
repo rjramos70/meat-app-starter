@@ -18,3 +18,6 @@ import 'core-js/es6/reflect';
 import 'core-js/es7/reflect';
 import 'zone.js/dist/zone';
 
+// pacotes para formatar os valores no padrão Brasileiro 'BRL'
+import 'intl'
+import 'intl/locale-data/jsonp/pt-BR.js'
